@@ -1,4 +1,4 @@
-# Paletteer
+# ![Logo](./logo.png) Paletteer
 
 A simple python script that produced a png containing the colors specified as a line-delimited list of RGB values (expressed as `#RRGGBB` in hexdecimal).
 
